@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./slipython.py --IPKernelApp.connection_file=slip.json

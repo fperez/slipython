@@ -1,0 +1,3 @@
+{"argv":["python","-m","slipython", "-f", "{connection_file}"],
+ "display_name":"SLIPython"
+}
